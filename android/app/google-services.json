@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "828996352057",
+    "firebase_url": "https://tamn-customers-default-rtdb.firebaseio.com",
+    "project_id": "tamn-customers",
+    "storage_bucket": "tamn-customers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828996352057:android:c78991a832e32caf7135e8",
+        "android_client_info": {
+          "package_name": "com.tamnstore.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828996352057-as4ei22m3vtfbs5284f3v17mb89acht3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tamnstore.driver",
+            "certificate_hash": "80452a43321f1598f572d6c8edc4f2a7d53e1640"
+          }
+        },
+        {
+          "client_id": "828996352057-vis1imcbj9ijmc6fu98np6bppn7mc30e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmM57oWVewb9gnRzZTMqVAMCb9tqv90XU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828996352057-flnie9t5ffq0gcj2rkusoq54roqog98t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "828996352057-5bec2mr50aiqoh25ee5iefvghpcvhe4m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tamnstore.tamnstore"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828996352057:android:e12a4861335159197135e8",
+        "android_client_info": {
+          "package_name": "com.tamnstore.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828996352057-61e8o445rspdhslj4elv2lt17msg1rcu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tamnstore.store",
+            "certificate_hash": "80452a43321f1598f572d6c8edc4f2a7d53e1640"
+          }
+        },
+        {
+          "client_id": "828996352057-vis1imcbj9ijmc6fu98np6bppn7mc30e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmM57oWVewb9gnRzZTMqVAMCb9tqv90XU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828996352057-flnie9t5ffq0gcj2rkusoq54roqog98t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "828996352057-5bec2mr50aiqoh25ee5iefvghpcvhe4m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tamnstore.tamnstore"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828996352057:android:b937200b5639cb1f7135e8",
+        "android_client_info": {
+          "package_name": "com.tamnstore.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828996352057-bmufeoo3aj0dhlio3n8cs89gld8090h7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tamnstore.user",
+            "certificate_hash": "80452a43321f1598f572d6c8edc4f2a7d53e1640"
+          }
+        },
+        {
+          "client_id": "828996352057-vis1imcbj9ijmc6fu98np6bppn7mc30e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmM57oWVewb9gnRzZTMqVAMCb9tqv90XU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828996352057-flnie9t5ffq0gcj2rkusoq54roqog98t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "828996352057-5bec2mr50aiqoh25ee5iefvghpcvhe4m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tamnstore.tamnstore"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
